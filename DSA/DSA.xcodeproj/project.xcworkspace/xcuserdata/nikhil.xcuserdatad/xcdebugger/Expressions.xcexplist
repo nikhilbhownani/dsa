@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "moveElementsFromOldHashToNewHash:Hash.c">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.c">
+      </ContextState>
+      <ContextState
+         contextName = "deleteElementInList:LinkedList.c">
+      </ContextState>
+      <ContextState
+         contextName = "dynamicArray2D:DynamicArray2d.c">
+      </ContextState>
+      <ContextState
+         contextName = "StackMain:Stack.c">
+      </ContextState>
+      <ContextState
+         contextName = "insertElementInHash:Hash.c">
+      </ContextState>
+      <ContextState
+         contextName = "HashMain:Hash.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "hash-&gt;nodes[1]">
+            </PersistentString>
+            <PersistentString
+               value = "hash-&gt;nodes[4]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "insertElement:DynamicArray2d.c">
+      </ContextState>
+      <ContextState
+         contextName = "newHashWithSize:Hash.c">
+      </ContextState>
+      <ContextState
+         contextName = "reHash:Hash.c">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
